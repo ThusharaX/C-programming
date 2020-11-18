@@ -9,7 +9,7 @@ Thanks goes to these wonderful people :heart:
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/ThusharaX/"><img src="https://avatars2.githubusercontent.com/u/47711719?s=400&v=4" width="100px;" alt=""/>
+        <td align="center"><a href="https://github.com/ThusharaX"><img src="https://avatars2.githubusercontent.com/u/47711719?s=400&v=4" width="100px;" alt=""/>
         <br/>
         <sub><b>ThusharaX</b></sub></a>
         <br/>
@@ -22,6 +22,13 @@ Thanks goes to these wonderful people :heart:
         <td align="center"><a href="https://github.com/Darklaneanjana"><img src="https://avatars2.githubusercontent.com/u/23092020?s=400&v=4" width="100px;" alt=""/>
         <br/>
         <sub><b>Darklaneanjana</b></sub></a>
+        <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/hirusha2577"><img src="https://avatars2.githubusercontent.com/u/56668123?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>hirusha2577</b></sub></a>
         <br/>
         </td>
     </tr>
