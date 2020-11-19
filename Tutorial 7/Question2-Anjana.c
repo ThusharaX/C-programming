@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
 
 int main()
 {
@@ -8,13 +8,15 @@ int main()
     int m;
     char nn[10];
     int mm=0;
+    int i;
+    int j;
 
-    for(int i=0;i<3;i++){
+    for(i=0;i<3;i++){
         printf("Enter name: ");
         scanf(" %s",&n);
         int t = 0;
 
-        for(int j=0;j<4;j++){
+        for(j=0;j<4;j++){
 
             printf("Enter Mark: ");
             scanf(" %d",&m);
