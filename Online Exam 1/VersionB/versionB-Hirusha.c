@@ -1,7 +1,9 @@
 #include <stdio.h>
 
+
+int additional_tot(int guests,int day);
 int main(){
-  
+    
   int option;
   int guests;
   int day;
