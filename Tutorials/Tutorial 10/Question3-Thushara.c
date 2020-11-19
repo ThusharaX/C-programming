@@ -1,25 +1,37 @@
-#include <stdio.h>
+// including header files
+#include <stdio.h>    
 
 // main function
-int main()
-{	
-	// declaring variables
-	int motion[5], count, motionAfter[5];
+int main() {
+    
+    // initialize variables 
+    int motion[] = {10, 6, 8, 2, 9}, lengthOfArray, i, firstIndex;
+    
+    // array length
+    lengthOfArray = 5;
+    
+    // printing original array    
+    printf("Initial values : ");    
+    for (i = 0; i < lengthOfArray; i++) {     
+        printf("%d ", motion[i]);     
+    }
+    
+    // store first element
+    firstIndex = motion[0];
 	
-	// adding values in to array
-	for (count = 1; count <= 5; count++) {
-		printf("Enter value :");
-		scanf("%d", &motion[count]);
-		
-		// rotating array
-		motionAfter[6 - count] = motion[count];
+	// rotating
+	for (i = 0; i < lengthOfArray - 1; i++) {
+		motion[i] = motion[i+1];
 	}
 	
-	// printing rotated array
-	printf("\nAfter Rotating : ");
-	for (count = 1; count <= 5; count++) {
-		printf("%d ", motionAfter[count]);
-	}
+	// adding first element in to last element
+	motion[i] = firstIndex;
 	
-    return 0;
+	// printing rotated array    
+    printf("\nAfter rotating : ");    
+    for (i = 0; i < lengthOfArray; i++) {     
+        printf("%d ", motion[i]);     
+    }
+    
+    return 0;    
 }
