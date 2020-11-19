@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int additional_tot(int guests,int day);
 int main(){
     
@@ -8,8 +7,7 @@ int main(){
   int guests;
   int day;
   int tot = 0;
-  
-  
+    
     printf("Input Room Option : ");
     scanf(" %d", &option);
 
