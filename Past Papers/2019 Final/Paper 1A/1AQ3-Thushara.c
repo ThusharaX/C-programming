@@ -5,6 +5,7 @@
 // including header files
 #include<stdio.h>
 #include<assert.h>
+#include<math.h>
 
 // function prototype
 float calcAnnualInterest(float interestRate, float amount);
@@ -65,8 +66,8 @@ float findTotalAmount(float interestRate, float amount) {
 
 // debug function
 void testTotalAmount() {
-	assert(findTotalAmount(10, 1000) == 1100);
-	assert(findTotalAmount(20, 2000000) == 2410000.00);
+	assert(fabs(findTotalAmount(10, 1000) - 1100) < 1);
+	assert(fabs(findTotalAmount(30, 125005) - 162506) < 1);
 }
 
 
