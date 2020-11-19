@@ -80,9 +80,9 @@ for(X=0; X!=-1;){
             break;
     }
 
-    }else {
+         }else {
         X = -1;
-    }
+         }
 
     }
 }
