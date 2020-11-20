@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<assert.h>
+#include<math.h>
 
 // function prototype
 float getDiscountPrice(int noOfGuests, float chargePerGuest);
@@ -60,8 +61,8 @@ float getAmount(int noOfGuests, float chargePerGuest, float discount) {
 
 // debug function
 void testGetDiscountPrice() {
-	assert(getDiscountPrice(5, 1000.00) == 500.00);
-	assert(getDiscountPrice(250, 1000.00) == 25000.00);
+	assert(fabs(getDiscountPrice(5, 1000.00) - 500) < 1);
+	assert(fabs(getDiscountPrice(250, 1000.00) - 25000) < 1);
 }
 
 
