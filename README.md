@@ -13,11 +13,6 @@ Thanks goes to these wonderful people :heart:
         <br/>
         <sub><b>AshenWijesingha</b></sub></a>
         <br/>
-        <td align="center"><a href="https://github.com/ThusharaX"><img src="https://avatars2.githubusercontent.com/u/56668123?s=400&v=4" width="100px;" alt=""/>
-        <br/>
-        <sub><b>ThusaraX</b></sub></a>
-        <br/>
-        </td>
         </td>
         <td align="center"><a href="https://github.com/Darklaneanjana"><img src="https://avatars2.githubusercontent.com/u/23092020?s=400&v=4" width="100px;" alt=""/>
         <br/>
