@@ -25,4 +25,11 @@ Thanks goes to these wonderful people :heart:
         <br/>
         </td>
     </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/pasindulakshan"><img src="https://avatars2.githubusercontent.com/u/74607482?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>pasindulakshan</b></sub></a>
+        <br/>
+        </td>
+    </tr>
 </table>
