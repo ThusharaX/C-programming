@@ -11,6 +11,9 @@ int main()
     // input first mark
     printf("Enter Marks, -99 to terminate : ");
     scanf("%d", &mark);
+    
+    if(mark != -99)
+    min =mark;
 
     while(mark != -99)
     {
