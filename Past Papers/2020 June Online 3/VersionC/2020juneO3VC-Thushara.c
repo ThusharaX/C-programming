@@ -11,7 +11,7 @@
 // main function
 int main(void)
 {
-	double salaries[SIZE] = {-1}; // salaries array
+	double salaries[SIZE] = {-1, -1, -1, -1, -1}; // salaries array
 	double salary = 0; // salary enterd by user
 	int count; // counter control variable
 	
