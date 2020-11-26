@@ -30,13 +30,6 @@ int main(void)
 			continue;
 		} // end if
 		
-		// check if sale > 20000.00
-		if (sale > 20000.00) {
-			
-			// add 5000.00 to sale amount
-			sale += 5000.00;
-		} // end if
-		
 		// store sale in to sales array
 		sales[count - 1] = sale;
 		count++;
@@ -45,7 +38,9 @@ int main(void)
 	// printing array
 	printf("\nSales person number\tSales amount\n");
 	for (count = 1; count <= SIZE; count++) {
-		printf("%d\t\t\t%.2f\n", count, sales[count - 1]);
+		if (sales[count - 1] > 20000.00) {
+			printf("%d\t\t\t%.2f\n", count, sales[count - 1]);
+		}
 	}
 	
 	return 0;
