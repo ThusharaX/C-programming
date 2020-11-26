@@ -43,6 +43,7 @@ int main(void)
 		
 	} while (seatNum != -1); // end do while
 	
+	// print reserved seat numbers
 	printf("\nReserved seat numbers\n\n");
 	for (count = 0; count < SIZE; count++) {
 		if (seat[count] == 1) {
