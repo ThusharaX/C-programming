@@ -5,11 +5,14 @@
 
 #include<stdio.h>
 
+#define SIZE 10
+
 // main function
 int main(void)
 {
-	int seat[10] = {0}; // seat nubers array
+	int seat[SIZE] = {0}; // seat nubers array
 	int seatNum = 0; // seat number enterd by user
+	int count = 0;
 	
 	// begin do while
 	do {
@@ -18,7 +21,7 @@ int main(void)
 		scanf("%d", &seatNum);
 		
 		// check if seat number valid
-		if (seatNum <= 10 && seatNum >= 1) {
+		if (seatNum <= SIZE && seatNum >= 1) {
 			if (seat[seatNum -1] == 0) {
 				seat[seatNum-1] = 1;
 			} // end if
@@ -39,6 +42,13 @@ int main(void)
 		} // end else
 		
 	} while (seatNum != -1); // end do while
+	
+	printf("\nReserved seat numbers\n\n");
+	for (count = 0; count < SIZE; count++) {
+		if (seat[count] == 1) {
+			printf("S%d\n", count + 1);
+		}
+	}
 	
 	return 0;
 }
