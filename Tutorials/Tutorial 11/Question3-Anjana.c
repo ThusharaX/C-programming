@@ -5,6 +5,8 @@ int main()
     int a[4][5]={0};
     int s,p,d;
     int b=1;
+    int i;
+    int j;
 
     while(b==1){
     printf("sales person number: ");
@@ -20,8 +22,8 @@ int main()
     printf("\n");
     }
 
-    for(int i=0;i<4;i++){
-        for(int j=0;j<5;j++)
+    for(i=0;i<4;i++){
+        for(j=0;j<5;j++)
             printf("%d person's %d product sales %d$\n",(i+1),(j+1),a[i][j]);
         printf("\n");
     }
