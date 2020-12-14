@@ -6,25 +6,24 @@
 #include<stdio.h>
 #include<string.h>
 
-#define STUDENT 5
+#define CUSTOMER 5
 
 struct student {
 	int accountNum;
 	char name[10];
 	char transType;
 	float amount;
-} std[STUDENT];
+} std[CUSTOMER];
 
 // main function
 int main(void) {
 	
-//	struct student std[STUDENT];
 	int count;
 	float totalDamount = 0, totalWamount = 0;
 	float maxDamount, minWamount;
 	char maxDname[10], minWname[10];
 	
-	for (count = 0; count < STUDENT; count++) {
+	for (count = 0; count < CUSTOMER; count++) {
 		printf("Account Number : ");
 		scanf("%d", &std[count].accountNum);
 		printf("Customer Name : ");
@@ -40,7 +39,7 @@ int main(void) {
 	
 	// Calculate total deposit and  total withdrawal
 	// Find max D amount and min W amount
-	for (count = 0; count < STUDENT; count++) {
+	for (count = 0; count < CUSTOMER; count++) {
 		if (std[count].transType == 'D' || std[count].transType == 'd') {
 			totalDamount += std[count].amount;
 			if (std[count].amount > maxDamount) {
@@ -55,7 +54,7 @@ int main(void) {
 		}
 	}
 	
-	for (count = 0; count < STUDENT; count++) {
+	for (count = 0; count < CUSTOMER; count++) {
 		if (std[count].amount == maxDamount) {
 			strcpy(maxDname, std[count].name);
 		}
