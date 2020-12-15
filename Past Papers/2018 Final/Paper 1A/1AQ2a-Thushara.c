@@ -8,12 +8,12 @@
 
 #define CUSTOMER 5
 
-struct student {
+struct customer {
 	int accountNum;
 	char name[10];
 	char transType;
 	float amount;
-} std[CUSTOMER];
+} cust[CUSTOMER];
 
 // main function
 int main(void) {
@@ -25,41 +25,41 @@ int main(void) {
 	
 	for (count = 0; count < CUSTOMER; count++) {
 		printf("Account Number : ");
-		scanf("%d", &std[count].accountNum);
+		scanf("%d", &cust[count].accountNum);
 		printf("Customer Name : ");
-		scanf(" %s", std[count].name);
+		scanf(" %s", cust[count].name);
 		printf("Transaction type : ");
-		scanf(" %c", &std[count].transType);
+		scanf(" %c", &cust[count].transType);
 		printf("Amount : ");
-		scanf("%f", &std[count].amount);
+		scanf("%f", &cust[count].amount);
 	}
 	
-	maxDamount = std[0].amount;
-	minWamount = std[0].amount;
+	maxDamount = cust[0].amount;
+	minWamount = cust[0].amount;
 	
 	// Calculate total deposit and  total withdrawal
 	// Find max D amount and min W amount
 	for (count = 0; count < CUSTOMER; count++) {
-		if (std[count].transType == 'D' || std[count].transType == 'd') {
-			totalDamount += std[count].amount;
-			if (std[count].amount > maxDamount) {
-				maxDamount = std[count].amount;
+		if (cust[count].transType == 'D' || cust[count].transType == 'd') {
+			totalDamount += cust[count].amount;
+			if (cust[count].amount > maxDamount) {
+				maxDamount = cust[count].amount;
 			}
 		}
-		else if (std[count].transType == 'W' || std[count].transType == 'w') {
-			totalWamount += std[count].amount;
-			if (std[count].amount < minWamount) {
-				minWamount = std[count].amount;
+		else if (cust[count].transType == 'W' || cust[count].transType == 'w') {
+			totalWamount += cust[count].amount;
+			if (cust[count].amount < minWamount) {
+				minWamount = cust[count].amount;
 			}
 		}
 	}
 	
 	for (count = 0; count < CUSTOMER; count++) {
-		if (std[count].amount == maxDamount) {
-			strcpy(maxDname, std[count].name);
+		if (cust[count].amount == maxDamount) {
+			strcpy(maxDname, cust[count].name);
 		}
-		else if (std[count].amount == minWamount) {
-			strcpy(minWname, std[count].name);
+		else if (cust[count].amount == minWamount) {
+			strcpy(minWname, cust[count].name);
 		}
 	}
 	
