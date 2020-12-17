@@ -1,4 +1,5 @@
 # C programming
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.C-programming)
 
 - 🌱 This is a repository for C programming related questions.
 - 👯 Everyone is welcome to contribute.
@@ -22,6 +23,18 @@ Thanks goes to these wonderful people :heart:
         <td align="center"><a href="https://github.com/hirusha2577"><img src="https://avatars2.githubusercontent.com/u/56668123?s=400&v=4" width="100px;" alt=""/>
         <br/>
         <sub><b>hirusha2577</b></sub></a>
+        <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/pasindulakshan"><img src="https://avatars2.githubusercontent.com/u/74607482?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>pasindulakshan</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/SasiZ98"><img src="https://avatars2.githubusercontent.com/u/74831645?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>SasiZ98</b></sub></a>
         <br/>
         </td>
     </tr>
