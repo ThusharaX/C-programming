@@ -1,5 +1,8 @@
 # C programming
 
+<h2><strong>IT 1010 Introduction to Programming</strong></h2>
+<hr>
+
 ### This project need a **star** ⭐ from you ♥
 <br>
 
