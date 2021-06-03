@@ -6,7 +6,7 @@ int main()
 	
 	FILE * cfPtr;
 	
-	for(i=1; i<=3; ++i)
+	for(i=1; i<=5; ++i)
 	{
 		cfPtr = fopen("loyalty.dat","r");
 		
