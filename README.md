@@ -76,4 +76,11 @@ Thanks goes to these wonderful people :heart:
         <br/>
         </td>
     </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/J-Maya"><img src="https://avatars2.githubusercontent.com/u/79036890?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>J-Maya</b></sub></a>
+        <br/>
+        </td>
+    </tr>
 </table>
