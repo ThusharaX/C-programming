@@ -24,6 +24,63 @@
 
 Thanks goes to these wonderful people :heart:
 
-<a href="https://github.com/ThusharaX/C-programming/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ThusharaX/C-programming" />
-</a>
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/ThusharaX"><img src="https://avatars2.githubusercontent.com/u/47711719?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>ThusharaX</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/AshenWijesingha"><img src="https://avatars2.githubusercontent.com/u/66056859?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>AshenWijesingha</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/Darklaneanjana"><img src="https://avatars2.githubusercontent.com/u/23092020?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>Darklaneanjana</b></sub></a>
+        <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/pasindulakshan"><img src="https://avatars2.githubusercontent.com/u/74607482?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>pasindulakshan</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/SasithaLakshan"><img src="https://avatars2.githubusercontent.com/u/74831645?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>SasithaLakshan</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/hirusha2577"><img src="https://avatars2.githubusercontent.com/u/56668123?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>hirusha2577</b></sub></a>
+        <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Randula98"><img src="https://avatars2.githubusercontent.com/u/85297495?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>Randula98</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/sahanperera00"><img src="https://avatars2.githubusercontent.com/u/85289620?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>sahanperera00</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/GRieZzLEO"><img src="https://avatars2.githubusercontent.com/u/85297548?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>GRieZzLEO</b></sub></a>
+        <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/J-Maya"><img src="https://avatars2.githubusercontent.com/u/79036890?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>J-Maya</b></sub></a>
+        <br/>
+        </td>
+    </tr>
+</table>
