@@ -17,7 +17,7 @@
 ![GitHub labels](https://img.shields.io/github/labels/ThusharaX/C-programming/help%20wanted)
 ![GitHub](https://img.shields.io/github/license/ThusharaX/C-programming)
 
-![cpp-programming](https://socialify.git.ci/ThusharaX/C-programming/image?description=1&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![c-programming](https://socialify.git.ci/ThusharaX/C-programming/image?description=1&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
 - 🌱 This is a repository for C programming related questions.
 - 👯 Everyone is welcome to contribute.
