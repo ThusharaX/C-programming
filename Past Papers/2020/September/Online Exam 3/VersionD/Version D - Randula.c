@@ -3,13 +3,13 @@
 int main(void)
 {
 	//declaring array
-	int num[8] = {1 , 4 , 1 , 3 , 1 , 3 , 2 , 1};
+	int num[8];
 	
 	//declaring variables
 	int i , patten = 0;
 	
 	//taking user inputs (numbers between 1 - 4)
-	/*for (i = 0 ; i < 8 ; i++)
+	for (i = 0 ; i < 8 ; i++)
 	{
 		printf("Enter a number (1 - 4) : ");
 		scanf("%d" , &num[i]);
@@ -19,7 +19,7 @@ int main(void)
 			printf("Invalid Input!!\n");
 			i--;
 		}
-	}*/
+	}
 	
 	//printing user inputs
 	printf("Num Array : ");
