@@ -3,7 +3,7 @@
 int main(void)
 {
 	//declaring arrays
-	int myArray[10] = {2 , 3 , 5 , 8 , 6 , 9 , 1 , 2 , 1 , 5}, largeNum[10];
+	int myArray[10] , largeNum[10];
 	
 	//declaring variables
 	int i , largeNo , lrgNo = 0;
@@ -11,11 +11,11 @@ int main(void)
 	float average ;
 	
 	//taking user inputs
-	/*for (i = 0 ; i < 10 ; i++)
+	for (i = 0 ; i < 10 ; i++)
 	{
 		printf("Enter a Number : ");
 		scanf("%d" , myArray[i]);
-	}*/
+	}
 	
 	//calculate total and average
 	for (i = 0 ; i < 10 ; i++)
