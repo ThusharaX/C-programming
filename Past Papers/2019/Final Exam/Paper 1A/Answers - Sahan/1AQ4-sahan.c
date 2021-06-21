@@ -6,7 +6,7 @@ int main()
 	
 	FILE * cfPtr;
 	
-	for(i=1; i<=5; ++i)
+	for(i = 1; i <= 5; ++i)
 	{
 		cfPtr = fopen("loyalty.dat","r");
 		
@@ -28,9 +28,17 @@ int main()
 				printf("\nLoyalty number already exists!\nEnter Telphone number: ");
 				scanf("%d", &telNoInput);
 				
-				rewind(cfPtr);
+				fclose(cfPtr);
+				
+				cfPtr = fopen("loyalty.dat","r");
+				
+				if(cfPtr == NULL)
+				{
+					printf("File cannot be open");
+					return -1;
+				}
 			}
-			fscanf(cfPtr,"%d%s%*c", &telNo, name);
+			fscanf(cfPtr,"%d%s", &telNo, name);
 		}
 		
 		printf("Enter customer name: ");
@@ -39,6 +47,12 @@ int main()
 		fclose(cfPtr);
 		
 		cfPtr = fopen("loyalty.dat","a");
+		
+		if(cfPtr == NULL)
+		{
+			printf("File cannot be open");
+			return -1;
+		}
 		
 		fprintf(cfPtr,"%d\t%s\n", telNoInput, nameInput);
 		
