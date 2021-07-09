@@ -50,18 +50,6 @@ Thanks goes to these wonderful people :heart:
         <sub><b>pasindulakshan</b></sub></a>
         <br/>
         </td>
-        <td align="center"><a href="https://github.com/SasithaLakshan"><img src="https://avatars2.githubusercontent.com/u/74831645?s=400&v=4" width="100px;" alt=""/>
-        <br/>
-        <sub><b>SasithaLakshan</b></sub></a>
-        <br/>
-        </td>
-        <td align="center"><a href="https://github.com/hirusha2577"><img src="https://avatars2.githubusercontent.com/u/56668123?s=400&v=4" width="100px;" alt=""/>
-        <br/>
-        <sub><b>hirusha2577</b></sub></a>
-        <br/>
-        </td>
-    </tr>
-    <tr>
         <td align="center"><a href="https://github.com/Randula98"><img src="https://avatars2.githubusercontent.com/u/85297495?s=400&v=4" width="100px;" alt=""/>
         <br/>
         <sub><b>Randula98</b></sub></a>
@@ -70,6 +58,18 @@ Thanks goes to these wonderful people :heart:
         <td align="center"><a href="https://github.com/sahanperera00"><img src="https://avatars2.githubusercontent.com/u/85289620?s=400&v=4" width="100px;" alt=""/>
         <br/>
         <sub><b>sahanperera00</b></sub></a>
+        <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/SasithaLakshan"><img src="https://avatars2.githubusercontent.com/u/74831645?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>SasithaLakshan</b></sub></a>
+        <br/>
+        </td>
+        <td align="center"><a href="https://github.com/hirusha2577"><img src="https://avatars2.githubusercontent.com/u/56668123?s=400&v=4" width="100px;" alt=""/>
+        <br/>
+        <sub><b>hirusha2577</b></sub></a>
         <br/>
         </td>
         <td align="center"><a href="https://github.com/GRieZzLEO"><img src="https://avatars2.githubusercontent.com/u/85297548?s=400&v=4" width="100px;" alt=""/>
