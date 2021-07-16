@@ -5,6 +5,9 @@
 ### This project need a **star** ⭐ from you ♥
 <br>
 
+<!-- readme: bots -start -->
+<!-- readme: bots -end -->
+
 ![GitHub top language](https://img.shields.io/github/languages/top/ThusharaX/C-programming)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.C-programming)
 ![GitHub forks](https://img.shields.io/github/forks/ThusharaX/C-programming?style=social)
