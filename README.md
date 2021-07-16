@@ -6,6 +6,8 @@
 <br>
 
 <!-- readme: bots -start -->
+<table>
+</table>
 <!-- readme: bots -end -->
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ThusharaX/C-programming)
