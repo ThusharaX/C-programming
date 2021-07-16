@@ -7,5 +7,10 @@ jobs:
         steps:
             - name: Contribute List
               uses: akhilmhdh/contributors-readme-action@v2.1.2
+              with:
+                image_size: 100(px)
+                columns_per_row: 3
+                committer_username: ThusharaX
+                commit_message: Contributors list updated
               env:
                   GITHUB_TOKEN: ${{ secrets.CON_TOKEN }}
