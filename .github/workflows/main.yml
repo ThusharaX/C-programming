@@ -14,3 +14,4 @@ jobs:
                 commit_message: Contributors list updated
               env:
                   GITHUB_TOKEN: ${{ secrets.CON_TOKEN }}
+
