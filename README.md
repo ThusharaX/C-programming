@@ -103,20 +103,12 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/J-Maya">
-            <img src="https://avatars.githubusercontent.com/u/79036890?v=4" width="100(px);" alt="J-Maya"/>
-            <br />
-            <sub><b>J-Maya</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/SahanPunchihewa">
             <img src="https://avatars.githubusercontent.com/u/72688889?v=4" width="100(px);" alt="SahanPunchihewa"/>
             <br />
             <sub><b>Sahan Punchihewa</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SasithaLakshan">
             <img src="https://avatars.githubusercontent.com/u/74831645?v=4" width="100(px);" alt="SasithaLakshan"/>
