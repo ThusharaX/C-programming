@@ -47,7 +47,7 @@ int main(void)
 	
 	
 	//displaying the total amount to be paid
-	printf("Total amount to be paid: %.2f", totalAmount);
+	printf("Total amount to be paid: %.2f", totalAmount );
 	
 	return 0;
 
