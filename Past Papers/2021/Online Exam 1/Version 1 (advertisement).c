@@ -16,7 +16,7 @@ int main(void)
 	printf("Number of Times: ");
 	scanf("%d", &noOfTimes);
 	
-	//asking if the advertisement broadcasted during the peal time or not
+	//asking if the advertisement broadcasted during the peak time or not
 	printf("Peak Time ( Y / N ): ");
 	scanf("%*c%c", &peakTime);
 	
