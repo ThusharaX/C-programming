@@ -44,20 +44,13 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Radser2001">
-            <img src="https://avatars.githubusercontent.com/u/87631717?v=4" width="100(px);" alt="Radser2001"/>
-            <br />
-            <sub><b>Supuni Randeniya</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/AshenWijesingha">
             <img src="https://avatars.githubusercontent.com/u/66056859?v=4" width="100(px);" alt="AshenWijesingha"/>
             <br />
             <sub><b>Ashen_Wijesingha</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Darklaneanjana">
             <img src="https://avatars.githubusercontent.com/u/23092020?v=4" width="100(px);" alt="Darklaneanjana"/>
@@ -71,15 +64,15 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>GRieZzLEO</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sahanperera00">
             <img src="https://avatars.githubusercontent.com/u/85289620?v=4" width="100(px);" alt="sahanperera00"/>
             <br />
             <sub><b>Sahan Perera</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ImgBotApp">
             <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100(px);" alt="ImgBotApp"/>
@@ -93,15 +86,15 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>Pasindu Lakshan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hirusha2577">
             <img src="https://avatars.githubusercontent.com/u/56668123?v=4" width="100(px);" alt="hirusha2577"/>
             <br />
             <sub><b>Hirusha</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AbishekPerera">
             <img src="https://avatars.githubusercontent.com/u/84265431?v=4" width="100(px);" alt="AbishekPerera"/>
@@ -115,8 +108,7 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>Sahan Punchihewa</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SasithaLakshan">
             <img src="https://avatars.githubusercontent.com/u/74831645?v=4" width="100(px);" alt="SasithaLakshan"/>
