@@ -6,7 +6,7 @@ jobs:
         name: A job to automate contrib in readme
         steps:
             - name: Contribute List
-              uses: akhilmhdh/contributors-readme-action@v2.1.2
+              uses: akhilmhdh/contributors-readme-action@v2.2.1
               with:
                 image_size: 100(px)
                 columns_per_row: 3
