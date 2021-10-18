@@ -1,0 +1,16 @@
+on: [push, pull_request]
+
+jobs:
+    contrib-readme-job:
+        runs-on: ubuntu-latest
+        name: A job to automate contrib in readme
+        steps:
+            - name: Contribute List
+              uses: akhilmhdh/contributors-readme-action@v2.2.1
+              with:
+                image_size: 100(px)
+                columns_per_row: 3
+                committer_username: ThusharaX
+                commit_message: Contributors list updated
+              env:
+                  GITHUB_TOKEN: ${{ secrets.CON_TOKEN }}
