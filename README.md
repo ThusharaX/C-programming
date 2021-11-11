@@ -73,17 +73,17 @@ Thanks goes to these wonderful people :heart:
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/sahanperera00">
-            <img src="https://avatars.githubusercontent.com/u/85289620?v=4" width="100(px);" alt="sahanperera00"/>
-            <br />
-            <sub><b>Sahan Perera</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ImgBotApp">
             <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100(px);" alt="ImgBotApp"/>
             <br />
             <sub><b>Imgbot</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sahanperera00">
+            <img src="https://avatars.githubusercontent.com/u/85289620?v=4" width="100(px);" alt="sahanperera00"/>
+            <br />
+            <sub><b>Sahan Perera</b></sub>
         </a>
     </td>
     <td align="center">
