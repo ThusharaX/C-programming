@@ -65,18 +65,18 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/GRieZzLEO">
-            <img src="https://avatars.githubusercontent.com/u/85297548?v=4" width="100(px);" alt="GRieZzLEO"/>
-            <br />
-            <sub><b>GRieZzLEO</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/ImgBotApp">
             <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100(px);" alt="ImgBotApp"/>
             <br />
             <sub><b>Imgbot</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/GRieZzLEO">
+            <img src="https://avatars.githubusercontent.com/u/85297548?v=4" width="100(px);" alt="GRieZzLEO"/>
+            <br />
+            <sub><b>GRieZzLEO</b></sub>
         </a>
     </td>
     <td align="center">
