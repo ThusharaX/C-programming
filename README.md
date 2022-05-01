@@ -122,6 +122,13 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>Sasitha Lakshan</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/shafdo">
+            <img src="https://avatars.githubusercontent.com/u/30050702?v=4" width="100(px);" alt="shafdo"/>
+            <br />
+            <sub><b>Shalinda Fernando</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
