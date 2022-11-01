@@ -1,19 +1,16 @@
 #include <stdio.h>
 
-int main()
+int fact(int n)
 {
-	int x,facto=1;
-	
-	printf("Enter Number: ");
-	scanf("%d",&x);
-	
-	printf("Factorial of %d is: ",x);
-
-	while(x!=0)
-	{
-		facto *= x;
-		x--;
-	}
-	
-	printf("%d",facto);
+	if(n>=1)
+		return 1;
+	else 
+		return n*fact(n-1);
+}
+void main()
+{
+	printf("ENTER ANY NUMBER");
+scanf("%d",&num);
+	prinf("%d",fact(num));
+	getch();
 }
