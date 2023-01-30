@@ -124,6 +124,13 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ShanelkaPramuditha">
+            <img src="https://avatars.githubusercontent.com/u/74038575?v=4" width="100(px);" alt="ShanelkaPramuditha"/>
+            <br />
+            <sub><b>Shanelka Pramuditha</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/shafdo">
             <img src="https://avatars.githubusercontent.com/u/30050702?v=4" width="100(px);" alt="shafdo"/>
             <br />
