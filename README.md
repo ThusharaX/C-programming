@@ -87,13 +87,20 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ShanelkaPramuditha">
+            <img src="https://avatars.githubusercontent.com/u/74038575?v=4" width="100(px);" alt="ShanelkaPramuditha"/>
+            <br />
+            <sub><b>Shanelka Pramuditha</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/pasindulakshan">
             <img src="https://avatars.githubusercontent.com/u/74607482?v=4" width="100(px);" alt="pasindulakshan"/>
             <br />
             <sub><b>Pasindu Lakshan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hirusha2577">
             <img src="https://avatars.githubusercontent.com/u/56668123?v=4" width="100(px);" alt="hirusha2577"/>
@@ -107,27 +114,20 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>AbishekPerera</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SahanPunchihewa">
             <img src="https://avatars.githubusercontent.com/u/72688889?v=4" width="100(px);" alt="SahanPunchihewa"/>
             <br />
             <sub><b>Sahan Punchihewa</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SasithaLakshan">
             <img src="https://avatars.githubusercontent.com/u/74831645?v=4" width="100(px);" alt="SasithaLakshan"/>
             <br />
             <sub><b>Sasitha Lakshan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ShanelkaPramuditha">
-            <img src="https://avatars.githubusercontent.com/u/74038575?v=4" width="100(px);" alt="ShanelkaPramuditha"/>
-            <br />
-            <sub><b>Shanelka Pramuditha</b></sub>
         </a>
     </td>
     <td align="center">
