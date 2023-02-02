@@ -7,13 +7,13 @@ int main(void) {
     int i, j; // counter variable
 
     // get correct number
-    while ((number <= 999) || (number >= 10000)) {
-        printf("Please enter your 4 digit number : ");
+    do {
+        printf("Enter a four digit number : ");
         scanf("%d", &number);
         if ((number <= 999) || (number >= 10000)) {
-            printf("Invalid Number\n");
+            printf("Invalid Number.\n");
         }
-    }
+    } while((number <= 999) || (number >= 10000));
 
     // separate to digits
     digit[0] = number % 10000 / 1000;
