@@ -12,7 +12,7 @@ int main(void) {
         for (j = 0; j < 4; j++) {
             printf("\tEnter element %d : ", j + 1);
             scanf("%d", &image[i][j]);
-            if (image[i][j] >= 55) {
+            if (image[i][j] >= 55) { // image[i][j] = 55 is not clearly mentioned in the questin.
                 imageSet[i][j] = 1;
             }
             else if (image[i][j] < 55) {
