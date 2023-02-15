@@ -65,13 +65,20 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ShanelkaPramuditha">
+            <img src="https://avatars.githubusercontent.com/u/74038575?v=4" width="100(px);" alt="ShanelkaPramuditha"/>
+            <br />
+            <sub><b>Shanelka Pramuditha</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/ImgBotApp">
             <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100(px);" alt="ImgBotApp"/>
             <br />
             <sub><b>Imgbot</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/GRieZzLEO">
             <img src="https://avatars.githubusercontent.com/u/85297548?v=4" width="100(px);" alt="GRieZzLEO"/>
@@ -84,13 +91,6 @@ Thanks goes to these wonderful people :heart:
             <img src="https://avatars.githubusercontent.com/u/85289620?v=4" width="100(px);" alt="sahanperera00"/>
             <br />
             <sub><b>Sahan Perera</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ShanelkaPramuditha">
-            <img src="https://avatars.githubusercontent.com/u/74038575?v=4" width="100(px);" alt="ShanelkaPramuditha"/>
-            <br />
-            <sub><b>Shanelka Pramuditha</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -135,6 +135,14 @@ Thanks goes to these wonderful people :heart:
             <img src="https://avatars.githubusercontent.com/u/30050702?v=4" width="100(px);" alt="shafdo"/>
             <br />
             <sub><b>Shalinda Fernando</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/tniromin">
+            <img src="https://avatars.githubusercontent.com/u/24409423?v=4" width="100(px);" alt="tniromin"/>
+            <br />
+            <sub><b>Tniromin</b></sub>
         </a>
     </td></tr>
 </table>
