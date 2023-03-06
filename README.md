@@ -124,20 +124,27 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/nmdra">
+            <img src="https://avatars.githubusercontent.com/u/73674803?v=4" width="100(px);" alt="nmdra"/>
+            <br />
+            <sub><b>NIMENDRA</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/SahanPunchihewa">
             <img src="https://avatars.githubusercontent.com/u/72688889?v=4" width="100(px);" alt="SahanPunchihewa"/>
             <br />
             <sub><b>Sahan Punchihewa</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SasithaLakshan">
             <img src="https://avatars.githubusercontent.com/u/74831645?v=4" width="100(px);" alt="SasithaLakshan"/>
             <br />
             <sub><b>Sasitha Lakshan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/shafdo">
             <img src="https://avatars.githubusercontent.com/u/30050702?v=4" width="100(px);" alt="shafdo"/>
